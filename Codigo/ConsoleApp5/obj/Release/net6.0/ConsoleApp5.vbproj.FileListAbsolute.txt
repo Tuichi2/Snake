@@ -1,0 +1,15 @@
+C:\Users\byron\source\repos\ConsoleApp5\ConsoleApp5\bin\Release\net6.0\ConsoleApp5.exe
+C:\Users\byron\source\repos\ConsoleApp5\ConsoleApp5\bin\Release\net6.0\ConsoleApp5.deps.json
+C:\Users\byron\source\repos\ConsoleApp5\ConsoleApp5\bin\Release\net6.0\ConsoleApp5.runtimeconfig.json
+C:\Users\byron\source\repos\ConsoleApp5\ConsoleApp5\bin\Release\net6.0\ConsoleApp5.dll
+C:\Users\byron\source\repos\ConsoleApp5\ConsoleApp5\bin\Release\net6.0\ConsoleApp5.pdb
+C:\Users\byron\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net6.0\ConsoleApp5.vbproj.AssemblyReference.cache
+C:\Users\byron\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net6.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byron\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net6.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\byron\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net6.0\ConsoleApp5.AssemblyInfo.vb
+C:\Users\byron\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net6.0\ConsoleApp5.vbproj.CoreCompileInputs.cache
+C:\Users\byron\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net6.0\ConsoleApp5.dll
+C:\Users\byron\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net6.0\refint\ConsoleApp5.dll
+C:\Users\byron\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net6.0\ConsoleApp5.pdb
+C:\Users\byron\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net6.0\ConsoleApp5.genruntimeconfig.cache
+C:\Users\byron\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net6.0\ref\ConsoleApp5.dll

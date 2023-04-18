@@ -1,0 +1,5 @@
+C:\Users\byron\Desktop\ConsoleApp5.exe
+C:\Users\byron\Desktop\ConsoleApp5.dll
+C:\Users\byron\Desktop\ConsoleApp5.deps.json
+C:\Users\byron\Desktop\ConsoleApp5.runtimeconfig.json
+C:\Users\byron\Desktop\ConsoleApp5.pdb
